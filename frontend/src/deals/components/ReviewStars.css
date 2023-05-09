@@ -1,0 +1,15 @@
+.stars-outer {
+  display: inline-block;
+  position: relative;
+  align-items: center;
+  font-family: FontAwesome;
+}
+
+.stars-inner {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  font-family: FontAwesome;
+}
